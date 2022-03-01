@@ -1,0 +1,31 @@
+
+header{
+background-color: lawngreen;
+
+}
+
+
+
+
+body {
+background-color: rgb(248, 189, 78);
+  margin: 0px;
+font-style: italic;
+font-size: medium;
+padding: 50px;
+padding-left: 50px;
+padding-block: 23px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+

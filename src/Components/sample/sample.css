@@ -1,0 +1,10 @@
+.Character__container {
+    display: flex
+    flex-wrap wrap;
+}
+
+.img {
+    width: auto;
+    max-height: 100%;
+
+}
